@@ -13,6 +13,7 @@ docker/ contains docker files
 get nodejs installed from https://nodejs.org/en
 
 For first time
+
 ```
 cd student-ui
 ```
@@ -20,6 +21,7 @@ cd student-ui
 npm install
 npm run build
 ```
+
 you will find a dist folder is created
 
 to build it next time
@@ -47,7 +49,7 @@ cd student-api
 install docker from https://www.docker.com/
 
 copy the jar from target folder inside student-api directory to docker folder
-and start docker container by running following
+and start docker container by running following.
 ```
 docker compose up
 ```
