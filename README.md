@@ -1,6 +1,6 @@
 # Student Management System
 
-## project file structure
+## project file structures
 
 student-api/ folder contains java backend code
 
